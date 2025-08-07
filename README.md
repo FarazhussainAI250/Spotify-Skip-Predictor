@@ -1,7 +1,8 @@
 <img width="1913" height="957" alt="song p" src="https://github.com/user-attachments/assets/6d631e8a-dc61-46ba-ad79-03c842d4a988" />
-### 🎵 Spotify Skip Predictor
 
-A machine learning-powered web application that predicts whether a Spotify track will be skipped during a user's listening session. With an interactive front-end, users can input track details, view skip predictions, and explore acoustic feature analysis to enhance music recommendations.
+# 🎵 Spotify Skip Predictor
+
+A powerful machine learning application designed to predict whether a Spotify track will be skipped during a user's listening session. By leveraging user behavior and acoustic features of tracks, this app aims to enhance music recommendation systems.
 
 ## 🚀 Features
 
